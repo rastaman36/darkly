@@ -32,14 +32,4 @@ This project aims to introduce web security concepts by exploring various vulner
 
 This project is for educational purposes only. The skills and techniques learned should only be applied to systems you have permission to test.
 
-## 🎓 About 42 School
 
-[42](https://42.fr/en/) is a global education initiative that offers a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills.
-
----
-*Note: This project's subject is available in French. The original project aims to introduce computer security in the field of web development, featuring OWASP (the largest web security project to date) and understanding security mechanisms that many frameworks handle automatically.*
-# darkly
-# darkly
-# darkly
-# darkly
-# darkly
